@@ -1,2 +1,2 @@
 hah, thought a client was here too hmm?
-Ask me on Greasyfork. https://greasyfork.org/en/users/1443371-player-x
+open an issue and let me know if you want it.
