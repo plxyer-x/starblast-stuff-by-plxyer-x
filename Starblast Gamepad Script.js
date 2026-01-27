@@ -2,8 +2,8 @@
 // @name          Starblast Gamepad Script
 // @namespace     http://tampermonkey.net/
 // @version       3.8
-// @description   Gamepad-to-mouse with keyboard control. added delay on start to test Subspace compatibility. Arrow removed.
-// @author        Player X
+// @description   Gamepad script for starblast.io itself. is able to run with SUBSPACE
+// @author        plxyer-x
 // @match         https://starblast.io/*
 // @grant         none
 // @run-at        document-idle
